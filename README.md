@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrockWoods
 - 👀 I’m interested in Golf, Chess, and programming 
 - 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on anything interesting!!
+- 💞️ Searching for an entry level job!
 - 📫 How to reach me bkwoods@hotmail.ca or on GitHub!
 
 <!---
